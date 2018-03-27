@@ -1,0 +1,29 @@
+{
+  "name": "htmlstart",
+  "authors": [
+    "Marek Zofota <mzofota@gmail.com>"
+  ],
+  "description": "Simple structure webpage with packages.",
+  "main": "",
+  "keywords": [
+    "htmlstart"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/himak/htmlstart",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "html5shiv": "^3.7.3",
+    "fontawesome": "^5.0.8",
+    "animate.css": "^3.5.2",
+    "Ionicons": "ionicons#^2.0.1",
+    "normalize.css": "^8.0.0",
+    "respond": "^1.4.2"
+  }
+}
