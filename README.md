@@ -7,8 +7,8 @@ Install bower packages:
 bower install
 ```
 
-CSS compile:
+Compile SCSS styles files to CSS:
 
 ```sh
-sass --watch scss/style.scss:css/style.css
+sass --watch assets/scss/style.scss:assets/css/style.css
 ```
